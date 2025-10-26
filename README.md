@@ -42,30 +42,6 @@ You can use this as a base for customer support, personal assistants, or educati
 
 ---
 
-## 📁 Project Structure
-
-ai-chatbot-gemini/
-│
-├── public/
-├── src/
-│ ├── components/
-│ │ ├── ChatWindow.jsx
-│ │ ├── Message.jsx
-│ │ └── Composer.jsx
-│ ├── services/
-│ │ └── geminiService.js
-│ ├── context/
-│ │ └── ChatContext.jsx
-│ ├── App.jsx
-│ └── main.jsx
-│
-├── server/ (optional backend)
-│ └── index.js
-│
-├── .env.example
-├── package.json
-└── README.md
----
 
 ## ⚙️ Installation & Setup
 
