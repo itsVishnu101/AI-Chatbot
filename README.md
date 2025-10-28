@@ -1,5 +1,5 @@
 
-# 🤖 AI Chatbot — Intelligent, Responsive Chatbot (Google Gemini + React + JavaScript)
+# 🤖 AI Chatbot — Responsive Chatbot (Google Gemini + React + JavaScript)
 
 A modern, responsive AI chatbot built using **Google Gemini API**, **React**, and **JavaScript**.  
 This project demonstrates how to integrate conversational AI into a clean, interactive UI — designed for speed, flexibility, and scalability.
