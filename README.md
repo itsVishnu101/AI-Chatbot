@@ -32,7 +32,7 @@ You can use this as a base for customer support, personal assistants, or educati
 
 | Layer | Technology |
 |-------|-------------|
-| **Frontend** | React (Vite / CRA), JavaScript (ESNext) |
+| **Frontend** | React (Vite), JavaScript (ESNext) |
 | **Backend (optional)** | Node.js + Express (for API proxy) |
 | **AI Engine** | Google Gemini API |
 | **Styling** | Tailwind CSS / CSS Modules |
