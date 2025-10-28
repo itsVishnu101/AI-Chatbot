@@ -7,7 +7,6 @@ This project demonstrates how to integrate conversational AI into a clean, inter
 ![Project Banner](https://img.shields.io/badge/AI-Chatbot-blue?style=for-the-badge)
 ![React](https://img.shields.io/badge/React-18.0-blue?style=for-the-badge)
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-API-lightgrey?style=for-the-badge)
-![License: MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 ---
 
