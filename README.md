@@ -45,6 +45,6 @@ You can use this as a base for customer support, personal assistants, or educati
 ### Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/its-vishnu-verma/)
-[![Email](https://img.shields.io/badge/Email-D14836?)](mailto:ui22ec86@iiitsurat.ac.in)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:ui22ec86@iiitsurat.ac.in)
 
 
