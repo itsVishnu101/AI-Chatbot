@@ -46,7 +46,7 @@ You can use this as a base for customer support, personal assistants, or educati
 
 ### 1️⃣ Clone the repository
 
-```bash
+`bash
 git clone https://github.com/<your-username>/ai-chatbot-gemini.git
 cd ai-chatbot-gemini
 
