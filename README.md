@@ -42,22 +42,9 @@ You can use this as a base for customer support, personal assistants, or educati
 ---
 
 
-## ⚙️ Installation & Setup
-
-### 1️⃣ Clone the repository
-
-`bash
-git clone https://github.com/<your-username>/ai-chatbot-gemini.git
-cd ai-chatbot-gemini
-
-
-npm install
-# or
-yarn
-
 ### Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/its-vishnu-verma/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:ui22ec86@iiitsurat.ac.in)
+[![Email](https://img.shields.io/badge/Email-D14836?)](mailto:ui22ec86@iiitsurat.ac.in)
 
 
