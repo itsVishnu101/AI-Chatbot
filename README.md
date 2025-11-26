@@ -41,6 +41,17 @@ You can use this as a base for customer support, personal assistants, or educati
 
 ---
 
+##  🤝 Contributions
+If you have suggestions or want to improve the project, feel free to:
+
+Submit a pull request
+
+Open an issue
+
+Share feedback
+
+---
+
 
 ##  ✨Connect with me:
 
